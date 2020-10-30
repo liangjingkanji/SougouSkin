@@ -6,11 +6,11 @@
 
 ## 截图预览
 
-![Screenshot_2020-02-11_13-43-20](https://tva1.sinaimg.cn/large/0082zybpgy1gbsetgvr81j30n605ijs3.jpg)
+<img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbsetgvr81j30n605ijs3.jpg" width="450"/>
 
 
 
-![Screenshot_2020-02-11_13-43-46](https://tva1.sinaimg.cn/large/0082zybpgy1gbsetmtxcyj30nm09m0uf.jpg)
+<img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbsetgvr81j30n605ijs3.jpg" width="450"/>
 
 
 
